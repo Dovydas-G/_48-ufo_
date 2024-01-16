@@ -43,38 +43,39 @@ Would like to run this project locally? Open terminal and follow these steps:
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Dovydas-G/_48-ufo_
+git clone https://github.com/Dovydas-G/_48-ufo_.git
 ```
 
-```html
-!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>UFO</title>
-  </head>
-  <body>
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-      cupiditate numquam accusamus? Maxime dignissimos culpa eaque iste expedita
-      sapiente optio!
-    </p>
-  </body>
-</html>
+2. Install NPM packages
+
+```sh
+npm i
 ```
 
-#### ketvirto lygio antraštė
+or
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, sed recusandae. Veritatis illo quaerat error ut reprehenderit ad velit
-aperiam?
+```sh
+npm install
+```
 
-##### Penkto lygio antraštė
+3. Run the server
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, sed recusandae. Veritatis illo quaerat error ut reprehenderit ad velit
-aperiam?
+```sh
+npm run dev
+```
 
-###### Šešto lygio antraštė
+### 🎞 Running tests
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, sed recusandae. Veritatis illo quaerat error ut reprehenderit ad velit
-aperiam?
+There is no tests for this project.
+
+## 😎 Authors
+
+Dovydas: [Github](https://github.com/Dovydas-G)
+
+## 👀 License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## 🔗 Other resources
+
+No other resources.
