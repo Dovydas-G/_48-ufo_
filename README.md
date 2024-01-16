@@ -1,21 +1,50 @@
-# Apie projektą
+# Ufo
 
-Paprastas paragrafas su [nuoroda](https://example.com).
+_website design project_
 
 ![Ufo nuotrauka](ufo.jpg)
 
-## Antro lygio antraštė
+## ✨ About
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, sed recusandae. Veritatis illo quaerat error ut reprehenderit ad velit
-aperiam?
+This project is for educational porpuses only. Pull request are welcome, but priority for authors!
+Thanks you for cooperation!
 
-> Lorem ipsum dolor sit
+Site published at: https://dovydas-g.github.io/_48-ufo_/
 
-> Lorem ipsum dolor sit
+Design: [Ufo](https://dribbble.com/shots/2815937-404-page)
 
-> Lorem ipsum dolor sit
+## 🛸 Project features/goals
 
-### Trečio lygio antraštė
+- Github pages
+- CSS units: px, %
+- Design layout
+- Images with relative paths
+
+## 🚦 Getting Started
+
+### 🖥 Prerequisites
+
+Node.js - _download and install_
+
+```
+https://nodejs.org
+```
+
+Git - _download and install_
+
+```
+https://git-scm.com
+```
+
+### Run locally
+
+Would like to run this project locally? Open terminal and follow these steps:
+
+1. Clone the repo
+
+```sh
+git clone https://github.com/Dovydas-G/_48-ufo_
+```
 
 ```html
 !DOCTYPE html>
