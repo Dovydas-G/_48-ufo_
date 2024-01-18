@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+  }
+  div {
+    background-color: yellow;
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+  }
+  div, div {
+    display: inline-block;
+    width: 35%;
+    float: left;
+  }
+  
+  a {
+    display: inline-block;
+  }
+  
+  img {
+    width: 30%;
+    float: right;
+  }
