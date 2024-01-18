@@ -19,6 +19,7 @@ Design: [Ufo](https://dribbble.com/shots/2815937-404-page)
 - CSS units: px, %
 - Design layout
 - Images with relative paths
+- **no responsive design**
 
 ## 🚦 Getting Started
 
