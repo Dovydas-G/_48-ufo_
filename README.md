@@ -2,7 +2,7 @@
 
 _website design project_
 
-![Ufo nuotrauka](ufo.jpg)
+![Ufo nuotrauka](./img/ufo.jpg)
 
 ## ✨ About
 
